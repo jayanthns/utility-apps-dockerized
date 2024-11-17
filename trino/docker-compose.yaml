@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  trino:
+    ports:
+      - "8080:8080"
+    image: "trinodb/trino:latest"
+    volumes:
+      - ./docker/trino/etc:/usr/lib/trino/etc:ro
+      - ./docker/trino/catalog:/etc/trino/catalog
+      - ./docker/credentials:/etc/credentials

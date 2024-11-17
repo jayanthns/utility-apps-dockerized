@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15.3-alpine  # Updated to the latest stable version
+    container_name: postgres_db  # Optional: Assign a clear name to the container
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: postgres  # Optional: Specify a default database
+    ports:
+      - '5432:5432'
+    volumes:
+      - postgres_data:/var/lib/postgresql/data # Named volume for data persistence
+      - ./db/init.sql:/docker-entrypoint-initdb.d/init.sql  # Ensure init script is used
+      - ./scripts/create_schema.sh:/docker-entrypoint-initdb.d/create_schema.sh
+      - ./scripts/schemas.txt:/docker-entrypoint-initdb.d/schemas.txt
+      - processed_schemas:/var/lib/postgresql/processed_schemas.txt
+    healthcheck:  # Add a health check for better reliability
+      test: ["CMD-SHELL", "pg_isready -U postgres"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  postgres_data:
+    driver: local
+  processed_schemas:
+    driver: local
+
+networks:
+  default:
+    name: postgres

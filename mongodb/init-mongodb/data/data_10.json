@@ -1,0 +1,336 @@
+[
+  {
+    "id": "7bc5ab98-126a-4cbd-abd3-2eb8aa9f933c",
+    "fullName": "Carroll Vandervort DVM",
+    "phoneNumber": "649.164.8459",
+    "address": "6750 Kreiger Islands, Port Wilbertside, GA 60013",
+    "createdAt": "2016-02-01",
+    "purchaseTransactions": [
+      {
+        "id": "75770e5d-c763-4806-a3cc-ae9498857128",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 39.63,
+        "createdAt": "2018-12-10"
+      },
+      {
+        "id": "babf0148-fe18-40e9-91fb-14291c035083",
+        "paymentType": "SOLO",
+        "amount": 30.54,
+        "createdAt": "2014-06-17"
+      },
+      {
+        "id": "6975d835-fb05-4dc5-ba8f-af0493b2312f",
+        "paymentType": "JCB",
+        "amount": 84.86,
+        "createdAt": "2012-11-24"
+      },
+      {
+        "id": "536d615a-4398-4f07-b2f9-1d774378e8f0",
+        "paymentType": "DANKORT",
+        "amount": 66.27,
+        "createdAt": "2012-12-02"
+      },
+      {
+        "id": "dc2de96e-9e0d-4faf-937c-7a29e2613d41",
+        "paymentType": "LASER",
+        "amount": 68.57,
+        "createdAt": "2019-03-02"
+      },
+      {
+        "id": "4ab431c2-1a4b-4e20-a8ef-6786335368d9",
+        "paymentType": "MASTERCARD",
+        "amount": 10.07,
+        "createdAt": "2019-10-02"
+      }
+    ]
+  },
+  {
+    "id": "fc394f03-ad38-45ac-8812-fab4a5b7fd0d",
+    "fullName": "Fausto Hamill",
+    "phoneNumber": "(480) 121-1587",
+    "address": "3008 Hackett Brooks, Greenfelderburgh, IN 15234",
+    "createdAt": "2019-12-06",
+    "purchaseTransactions": []
+  },
+  {
+    "id": "34c8d1db-46e0-4a80-bc0c-864de3db0047",
+    "fullName": "Jamison Lindgren I",
+    "phoneNumber": "890.768.1341",
+    "address": "86913 Rocky Center, South Dwanatown, OH 22960-2683",
+    "createdAt": "2021-03-09",
+    "purchaseTransactions": [
+      {
+        "id": "7eac12b1-f4ab-4f03-b4fe-bb9ea7e61127",
+        "paymentType": "LASER",
+        "amount": 32.32,
+        "createdAt": "2014-12-17"
+      },
+      {
+        "id": "e7532e7c-bd06-4559-929b-ce91eb49fa57",
+        "paymentType": "SWITCH",
+        "amount": 54.61,
+        "createdAt": "2017-08-29"
+      },
+      {
+        "id": "f9c980e0-c2e9-4494-9753-bbd1ccb6b107",
+        "paymentType": "VISA",
+        "amount": 21.64,
+        "createdAt": "2014-05-23"
+      },
+      {
+        "id": "b9430bc9-2227-4d50-8164-f53cc166a464",
+        "paymentType": "VISA",
+        "amount": 36.12,
+        "createdAt": "2018-09-07"
+      },
+      {
+        "id": "a84a4e7e-988a-41ac-882b-30d150538832",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 10.6,
+        "createdAt": "2014-05-27"
+      },
+      {
+        "id": "53669cde-6648-4e43-b39a-4423d772fc32",
+        "paymentType": "DANKORT",
+        "amount": 61.34,
+        "createdAt": "2020-03-24"
+      },
+      {
+        "id": "37cf5db3-3a2d-428d-9305-d070e40c7438",
+        "paymentType": "DINERS_CLUB",
+        "amount": 98.7,
+        "createdAt": "2022-02-05"
+      }
+    ]
+  },
+  {
+    "id": "7e16c7f6-83a7-48f7-8427-3a6f69c7e169",
+    "fullName": "Gabriel Romaguera",
+    "phoneNumber": "948-956-8766",
+    "address": "Suite 672 8389 Purdy Viaduct, Schoenshire, NH 84754",
+    "createdAt": "2018-12-30",
+    "purchaseTransactions": [
+      {
+        "id": "704ceabe-78a8-4cac-b63f-c02cd5d32eb2",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 64.75,
+        "createdAt": "2014-06-11"
+      },
+      {
+        "id": "0f4231eb-53fb-4ae7-9527-21362a05c5c6",
+        "paymentType": "VISA",
+        "amount": 71.44,
+        "createdAt": "2014-12-28"
+      },
+      {
+        "id": "6765955e-7a25-4545-a301-97644114d2d9",
+        "paymentType": "MASTERCARD",
+        "amount": 51.4,
+        "createdAt": "2018-12-07"
+      },
+      {
+        "id": "f246dca2-eba9-4408-96bc-60622fef143b",
+        "paymentType": "DISCOVER",
+        "amount": 66.28,
+        "createdAt": "2016-03-20"
+      },
+      {
+        "id": "bdb44fdd-1aba-4f72-9fff-c834a3ce0fab",
+        "paymentType": "JCB",
+        "amount": 6.21,
+        "createdAt": "2017-08-26"
+      },
+      {
+        "id": "361ffb3d-dc4d-4565-97c0-a78655137698",
+        "paymentType": "DINERS_CLUB",
+        "amount": 65.85,
+        "createdAt": "2019-02-01"
+      },
+      {
+        "id": "9d56edf9-1e14-42c4-aec4-5aaef2913866",
+        "paymentType": "DANKORT",
+        "amount": 75.82,
+        "createdAt": "2013-06-18"
+      }
+    ]
+  },
+  {
+    "id": "4b024d0a-e587-4ae3-9b16-5c4cf7a2d905",
+    "fullName": "Refugio Gislason",
+    "phoneNumber": "177-990-6850",
+    "address": "821 Oscar Spur, Velvatown, NE 75602-2402",
+    "createdAt": "2016-01-17",
+    "purchaseTransactions": [
+      {
+        "id": "f83c1af0-278b-4b01-a788-0d4c31936f8e",
+        "paymentType": "DANKORT",
+        "amount": 40.93,
+        "createdAt": "2014-06-16"
+      },
+      {
+        "id": "2eb9d01a-e8c4-4580-8b19-98a15b45a4f0",
+        "paymentType": "JCB",
+        "amount": 7.23,
+        "createdAt": "2019-10-31"
+      },
+      {
+        "id": "b29f5bc3-fa23-4f8d-bcdf-d1416fa5b4fd",
+        "paymentType": "SOLO",
+        "amount": 15.19,
+        "createdAt": "2021-05-20"
+      },
+      {
+        "id": "d1813d5f-673d-4086-ba74-bda3ea23ec51",
+        "paymentType": "SWITCH",
+        "amount": 33.69,
+        "createdAt": "2015-02-27"
+      },
+      {
+        "id": "92363460-ae71-41f4-8984-30db2bd274f8",
+        "paymentType": "DINERS_CLUB",
+        "amount": 57.78,
+        "createdAt": "2019-11-20"
+      },
+      {
+        "id": "7d18220c-0c49-4930-ae52-ec2845a34d79",
+        "paymentType": "DISCOVER",
+        "amount": 33.2,
+        "createdAt": "2012-10-07"
+      },
+      {
+        "id": "f9ab4b21-3680-4702-93e5-836b833a45dc",
+        "paymentType": "VISA",
+        "amount": 88.01,
+        "createdAt": "2020-09-26"
+      },
+      {
+        "id": "a9733642-573b-4c92-9faf-288192bd3953",
+        "paymentType": "DISCOVER",
+        "amount": 47.01,
+        "createdAt": "2013-08-29"
+      }
+    ]
+  },
+  {
+    "id": "8cb93c8c-a5a7-417f-b4f7-d7951c6c448f",
+    "fullName": "Demarcus Langosh",
+    "phoneNumber": "759-592-1570",
+    "address": "Apt. 968 1377 Filiberto Junctions, Margaritetown, LA 21834",
+    "createdAt": "2015-04-29",
+    "purchaseTransactions": [
+      {
+        "id": "14861002-3332-4dfa-bc9b-b34e08d8619b",
+        "paymentType": "VISA",
+        "amount": 75.69,
+        "createdAt": "2021-06-21"
+      },
+      {
+        "id": "2287a3fa-4192-4eab-9650-4ea0da62e305",
+        "paymentType": "DISCOVER",
+        "amount": 80.7,
+        "createdAt": "2013-09-24"
+      },
+      {
+        "id": "a0914f2f-4ded-441c-9779-c0a9c6aaca33",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 11.76,
+        "createdAt": "2019-03-22"
+      },
+      {
+        "id": "cc984361-0432-4ba4-86cd-74ca2a859acf",
+        "paymentType": "AMERICAN_EXPRESS",
+        "amount": 43.43,
+        "createdAt": "2020-07-06"
+      },
+      {
+        "id": "a49ab5a5-6444-4c15-8233-cbc86926736f",
+        "paymentType": "SWITCH",
+        "amount": 24.97,
+        "createdAt": "2016-10-23"
+      },
+      {
+        "id": "4bb9137a-9466-47b8-893b-cae55d6b0142",
+        "paymentType": "DANKORT",
+        "amount": 43.91,
+        "createdAt": "2018-03-11"
+      },
+      {
+        "id": "8134b5da-d26b-40e0-a257-c3d4293db12c",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 42.19,
+        "createdAt": "2015-08-26"
+      },
+      {
+        "id": "4fdb61f8-a725-4710-b339-c580f468573f",
+        "paymentType": "SWITCH",
+        "amount": 67.33,
+        "createdAt": "2014-07-25"
+      }
+    ]
+  },
+  {
+    "id": "3390aa8f-5dc8-4458-becb-09e4640941e8",
+    "fullName": "Margy Langosh",
+    "phoneNumber": "(127) 766-0547",
+    "address": "7892 Simonis Lodge, Carrollside, HI 67521-3544",
+    "createdAt": "2017-08-08",
+    "purchaseTransactions": [
+      {
+        "id": "ec3c2b81-f8d1-4325-b677-f9b4e3dac74b",
+        "paymentType": "FORBRUGSFORENINGEN",
+        "amount": 14.36,
+        "createdAt": "2019-08-27"
+      },
+      {
+        "id": "ee975682-9c85-4754-b414-fa999bf173b3",
+        "paymentType": "DISCOVER",
+        "amount": 87.96,
+        "createdAt": "2017-05-18"
+      }
+    ]
+  },
+  {
+    "id": "266fbb42-aee6-4402-a965-e55f5273c142",
+    "fullName": "Lisandra Wisozk",
+    "phoneNumber": "(591) 909-5191",
+    "address": "Suite 011 37845 Kub Flat, Trompmouth, WY 29493",
+    "createdAt": "2015-10-06",
+    "purchaseTransactions": [
+      {
+        "id": "96db4816-7f40-43e5-ba63-573730e73e1f",
+        "paymentType": "JCB",
+        "amount": 60.47,
+        "createdAt": "2017-07-01"
+      }
+    ]
+  },
+  {
+    "id": "9d276f6b-7985-44e2-b1ce-1b8a66fa69d8",
+    "fullName": "Bruno Pacocha",
+    "phoneNumber": "632.000.3833",
+    "address": "Apt. 345 0696 Tyron Land, Ornview, GA 57569-2260",
+    "createdAt": "2017-03-25",
+    "purchaseTransactions": [
+      {
+        "id": "ac866228-2cce-46ef-bf49-c66151a1de50",
+        "paymentType": "SOLO",
+        "amount": 4.48,
+        "createdAt": "2020-06-25"
+      },
+      {
+        "id": "036beff2-e808-4c9e-a39b-4ddfafac758f",
+        "paymentType": "DISCOVER",
+        "amount": 38.69,
+        "createdAt": "2020-10-08"
+      }
+    ]
+  },
+  {
+    "id": "83dec21d-c9e2-49da-b9bd-dd5883d6baaf",
+    "fullName": "Delois Terry",
+    "phoneNumber": "150-104-5422",
+    "address": "Suite 676 079 Gerard Villages, Herzogport, NM 27092-0658",
+    "createdAt": "2020-05-11",
+    "purchaseTransactions": []
+  }
+]
